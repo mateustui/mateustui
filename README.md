@@ -31,7 +31,7 @@
   
   <p align="center">
 <a target="_blank" href="https://luizfantin.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-luizfantin.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a target="_blank" href="https://www.linkedin.com/in/mateus-flc%C3%A3o-0b626818b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateus%20Falcão-blue?style=flat-square&logo=linkedin"></a>
+<a target="_blank" href="linkedin.com/in/mateus-falcão-0b626818b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateus%20Falcão-blue?style=flat-square&logo=linkedin"></a>
 <a target="_blank" href="https://www.instagram.com/mateustui/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mateustui-blue?style=flat-square&logo=instagram"></a>
 <a target="_blank" href="mailto:mfalcao817@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mfalcao817@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
