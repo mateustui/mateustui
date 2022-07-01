@@ -19,7 +19,7 @@
 ### 👨🏻‍🔧Projetos 
 
 - I-VANT:Uma arquitetura de software embarcado para realização de voos semiautônomos com vant quadrirotor. 
-<br>Acesse o repositório <a href="https://github.com/mateustui/I-Vant">aqui.</a>
+<br>Acesse o repositório <a href="https://github.com/mateustui/I-Vant">aqui.</a><br>
 Acesse o artigo<a href="http://200.145.27.212/MNR/mostravirtual/interna.php?id=32438">  aqui.</a><br>
 <p align="center">
 <img src="https://github.com/mateustui/I-Vant/blob/main/Imagens/Editada.png" alt="Protótipo" height="150" />
