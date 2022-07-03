@@ -39,13 +39,19 @@ Acesse o capítulo do livro<a href="https://www.editoracientifica.org/articles/c
 
 
 - Aprendendo robótica na escola: Uma abordagem usando a metodologia ABP.<br> 
-- Acesse a matéria<a href="https://www.linhares.ifes.edu.br/noticias/16846-projeto-de-extens%C3%A3o-do-ifes-campus-linhares-foi-apresentado-no-evento-esx-2021.html"> aqui.</a>
+Acesse a matéria<a href="https://www.linhares.ifes.edu.br/noticias/16846-projeto-de-extens%C3%A3o-do-ifes-campus-linhares-foi-apresentado-no-evento-esx-2021.html"> aqui.</a>
 <p align="center">
 <img src="esx.jpeg" alt="ESX" height="180" />
 </p>
 
 
 - Deenvolvimento de um sistema automatizado para coleta de dados de tensiometria utilizando IoT.<br>
+Acesse o repositório o<a href="https://github.com/mateustui/Tensiometro"> aqui.</a>
+</a>
+<p align="center">
+<img src="https://github.com/mateustui/Tensiometro/blob/main/Imagens/img_vini.png" alt="Placa" height="180" />
+</p>
+
 - IFMaker-Bot: o robô educacional do IFMaker.<br>
 - Desenvolvimento de uma solução para controle da torra das amêndoas de cacau e sistema de coleta automatizada de temperatura.<br>
 
