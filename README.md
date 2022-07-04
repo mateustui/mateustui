@@ -54,6 +54,14 @@ Acesse o repositório o<a href="https://github.com/mateustui/Tensiometro"> aqui.
 
 - IFMaker-Bot: o robô educacional do IFMaker.<br>
 - Desenvolvimento de uma solução para controle da torra das amêndoas de cacau e sistema de coleta automatizada de temperatura.<br>
+Acesse o repositório o<a href="https://github.com/mateustui/Forno_automatizado"> aqui.</a>
+</a>
+<p align="center">
+<img src="https://github.com/mateustui/Forno_automatizado/blob/main/Imagens/placa_forno.png" alt="Placa" height="180" />
+</p>
+
+
+
 
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustui&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="mateustui" />
   
