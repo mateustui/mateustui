@@ -45,7 +45,7 @@ Acesse a matéria<a href="https://www.linhares.ifes.edu.br/noticias/16846-projet
 </p>
 
 
-- Deenvolvimento de um sistema automatizado para coleta de dados de tensiometria utilizando IoT.<br>
+- Desenvolvimento de um sistema automatizado para coleta de dados de tensiometria utilizando IoT.<br>
 Acesse o repositório o<a href="https://github.com/mateustui/Tensiometro"> aqui.</a>
 </a>
 <p align="center">
