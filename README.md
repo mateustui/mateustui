@@ -66,6 +66,7 @@ Acesse o repositório o<a href="https://github.com/mateustui/Forno_automatizado"
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateustui&layout=compact&hide=html,jupyter%20notebook&theme=dark" alt="mateustui" />
   
   <p align="center">
+  <a target="_blank" href="https://mateustui.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-mateustui.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a target="_blank" href="https://www.linkedin.com/in/mateus-falcão-0b626818b"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Mateus%20Falcão-blue?style=flat-square&logo=linkedin"></a>
 <a target="_blank" href="https://www.instagram.com/mateustui/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-mateustui-blue?style=flat-square&logo=instagram"></a>
 <a target="_blank" href="mailto:mfalcao817@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mfalcao817@gmail.com-blue?style=flat-square&logo=gmail"></a>
