@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 Sobre mim
 - 💻 Apaixonado por tecnologia e desenvolvimento
 - ⚡ Gosto de estar sempre resolvendo desafios
-- 🎓 Estudante de Engenharia de Conrole e Automação no Instituto Federal do Espírito Santo
+- 🎓 Engenheiro de Conrole e Automação e Técnico em Automação Industrial pelo Instituto Federal do Espírito Santo
 - 🌱 Gosto de aprender sobre sistemas embarcados, desenvolvimento de hardware, robótica e programação
 
 ### 🛠 Tecnologias:
